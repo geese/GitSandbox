@@ -16,5 +16,5 @@ public class MainActivity extends AppCompatActivity {
     // out new-branch and then selecting master->merge in the branch menu.
 
     // testing what happens now when I make this comment in new-branch,
-    // then first check out master and then select new-branch->merge
+    // then first check out master and then select master->branch...
 }
