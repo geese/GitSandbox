@@ -17,4 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     // testing what happens now when I make this comment in new-branch,
     // then first check out master and then select master->branch...
+    // nothing happened...but Android Studio told me it merged master TO new-branch
+
+    // now I'll check out master and then go new-branch->merge...
 }
